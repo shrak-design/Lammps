@@ -1,2 +1,2 @@
 # Lammps
-lammps的模拟搅拌
+lammps的模拟脚本
